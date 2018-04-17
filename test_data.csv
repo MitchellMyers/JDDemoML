@@ -1,0 +1,1001 @@
+Region,Text_Length,Sentiment,Has_Photo,Has_Video,Video_Length,Time_Of_Day,Likes
+Asia,173,sad,0,1,39,afternoon,2647
+Latin America,68,sad,0,0,N/A,morning,2122
+South America,133,happy,0,0,N/A,morning,3568
+South America,74,happy,1,0,N/A,night,1075
+Latin America,117,happy,1,1,30,morning,2376
+Asia,95,happy,0,1,89,afternoon,1155
+South America,116,sad,1,0,N/A,afternoon,798
+US,77,neutral,0,1,67,morning,1163
+US,177,happy,0,1,46,afternoon,2345
+Latin America,146,sad,0,0,N/A,night,2750
+Asia,194,happy,1,0,N/A,morning,1015
+Latin America,176,happy,0,0,N/A,afternoon,915
+South America,89,neutral,1,1,14,afternoon,3965
+US,71,neutral,0,0,N/A,afternoon,2071
+US,40,happy,0,1,92,night,1545
+South America,151,sad,1,0,N/A,morning,342
+Latin America,168,sad,1,1,22,night,2818
+Asia,194,sad,0,1,59,afternoon,2831
+South America,79,sad,0,1,45,morning,1645
+South America,179,happy,0,1,23,afternoon,3341
+Europe,76,sad,0,0,N/A,night,1744
+Latin America,111,neutral,1,1,14,afternoon,1605
+Europe,111,neutral,1,1,43,morning,1257
+Latin America,28,happy,0,1,77,afternoon,1230
+Asia,115,happy,1,0,N/A,morning,1220
+Latin America,86,sad,1,1,56,afternoon,1944
+South America,182,happy,1,1,21,afternoon,2172
+South America,181,neutral,0,1,99,morning,543
+Europe,100,sad,1,1,92,night,3553
+Europe,150,sad,0,1,118,afternoon,2515
+US,182,happy,0,1,93,afternoon,3176
+Asia,120,happy,1,1,49,night,763
+US,47,happy,1,0,N/A,night,1658
+South America,112,happy,0,1,16,morning,3891
+Europe,133,sad,0,1,11,afternoon,434
+Europe,79,neutral,0,0,N/A,night,2170
+US,187,happy,0,1,57,afternoon,1334
+Latin America,100,happy,1,1,28,afternoon,828
+Asia,164,neutral,1,1,120,afternoon,1899
+Latin America,40,happy,0,1,31,night,1756
+Asia,114,sad,1,0,N/A,morning,2344
+Asia,49,sad,0,0,N/A,afternoon,1370
+Asia,47,neutral,1,1,53,morning,752
+Latin America,111,happy,1,1,75,afternoon,2228
+US,102,neutral,1,1,22,afternoon,3504
+Europe,58,sad,1,0,N/A,night,2076
+US,60,neutral,1,0,N/A,night,1809
+Asia,112,neutral,1,1,62,afternoon,663
+Asia,134,sad,1,0,N/A,night,3627
+South America,183,neutral,0,1,50,afternoon,2014
+US,111,neutral,0,1,19,night,1283
+Latin America,160,neutral,0,1,28,night,3295
+Asia,136,sad,1,0,N/A,morning,2936
+Asia,134,happy,0,1,67,afternoon,3295
+South America,95,happy,1,1,89,morning,1723
+Latin America,52,happy,1,1,119,morning,3928
+Latin America,153,sad,1,1,20,afternoon,3569
+South America,37,neutral,0,1,84,afternoon,2057
+Europe,128,sad,0,0,N/A,afternoon,1008
+Asia,178,neutral,1,0,N/A,morning,584
+Latin America,109,happy,1,0,N/A,afternoon,2892
+South America,102,sad,0,1,80,night,611
+US,111,neutral,1,0,N/A,afternoon,2624
+US,149,happy,1,1,106,morning,1099
+South America,32,neutral,0,1,41,afternoon,2919
+Latin America,183,sad,1,1,109,night,1217
+Latin America,120,neutral,1,1,119,morning,2894
+Asia,52,happy,1,1,78,night,2636
+Europe,133,happy,0,0,N/A,morning,1380
+US,138,sad,1,0,N/A,morning,3153
+US,71,sad,1,0,N/A,afternoon,3919
+US,158,neutral,1,1,67,afternoon,1319
+Europe,184,happy,0,1,12,morning,1658
+Asia,108,sad,0,0,N/A,afternoon,2915
+Latin America,191,sad,0,0,N/A,night,1207
+Europe,76,happy,0,0,N/A,afternoon,631
+Asia,33,sad,1,1,35,morning,2739
+Latin America,141,neutral,1,0,N/A,afternoon,1266
+South America,137,neutral,1,1,47,morning,2286
+Asia,170,neutral,0,0,N/A,night,320
+South America,146,happy,1,0,N/A,afternoon,1373
+Latin America,69,sad,1,1,67,morning,1473
+Latin America,166,happy,0,1,26,night,383
+South America,60,happy,0,0,N/A,morning,3461
+Asia,166,neutral,0,0,N/A,night,2211
+Asia,138,sad,0,0,N/A,night,3816
+Latin America,138,sad,0,0,N/A,afternoon,2205
+Asia,119,sad,0,0,N/A,night,708
+US,93,happy,1,1,88,afternoon,3121
+US,34,happy,0,1,38,afternoon,544
+South America,49,happy,0,0,N/A,afternoon,2442
+Latin America,30,neutral,0,0,N/A,afternoon,2531
+Latin America,177,sad,0,0,N/A,night,3110
+Asia,57,sad,0,0,N/A,night,2479
+South America,69,happy,1,1,111,afternoon,3449
+Latin America,60,sad,1,1,15,afternoon,3139
+South America,186,sad,0,0,N/A,morning,3662
+Asia,37,sad,0,1,37,night,1306
+South America,177,neutral,1,0,N/A,afternoon,1700
+Latin America,52,happy,0,1,41,morning,1504
+US,58,happy,0,1,84,night,570
+Asia,50,neutral,1,0,N/A,night,984
+Europe,111,sad,0,0,N/A,night,1823
+Europe,176,happy,1,1,80,night,1925
+Asia,136,neutral,1,0,N/A,morning,3448
+US,59,happy,1,0,N/A,morning,3333
+Latin America,157,neutral,0,0,N/A,morning,1900
+Europe,192,sad,1,0,N/A,morning,3611
+South America,48,neutral,0,0,N/A,night,2815
+Europe,27,happy,0,0,N/A,morning,3107
+US,59,neutral,0,0,N/A,night,2150
+Latin America,189,neutral,0,0,N/A,morning,1203
+Europe,116,sad,0,0,N/A,afternoon,1475
+US,59,neutral,0,1,99,morning,2866
+US,37,neutral,0,0,N/A,night,2422
+South America,117,neutral,1,1,97,night,1658
+Latin America,26,neutral,0,1,51,morning,1537
+South America,56,happy,1,0,N/A,afternoon,3800
+South America,40,happy,1,1,98,afternoon,3955
+Europe,133,happy,0,1,107,morning,2858
+Europe,50,neutral,1,1,56,afternoon,3434
+South America,168,happy,0,0,N/A,afternoon,371
+South America,42,sad,0,1,117,night,1220
+Asia,198,sad,0,0,N/A,morning,739
+Latin America,77,happy,0,0,N/A,afternoon,1223
+Europe,135,happy,0,1,26,afternoon,1519
+Asia,70,neutral,1,1,91,night,3605
+South America,173,happy,0,1,83,morning,373
+South America,57,neutral,1,1,13,night,3648
+US,51,neutral,0,0,N/A,morning,2992
+Asia,131,happy,1,1,106,night,686
+Asia,182,happy,0,0,N/A,night,2241
+Latin America,116,happy,0,1,83,morning,921
+US,188,happy,1,0,N/A,morning,1692
+Asia,88,happy,1,1,76,afternoon,1105
+Europe,166,neutral,0,0,N/A,morning,1483
+South America,169,happy,1,1,44,night,1931
+South America,75,neutral,1,1,70,morning,2163
+South America,95,happy,1,1,83,night,433
+Europe,176,neutral,0,1,97,night,764
+Asia,104,neutral,1,1,17,morning,3049
+Asia,30,happy,1,0,N/A,morning,2696
+US,28,neutral,0,0,N/A,morning,2847
+Asia,176,happy,0,0,N/A,afternoon,2737
+Latin America,157,sad,0,0,N/A,night,2238
+Asia,91,happy,0,0,N/A,afternoon,1043
+US,87,sad,0,1,27,morning,922
+Latin America,163,neutral,0,1,107,night,691
+Europe,39,sad,0,1,105,morning,1504
+Europe,66,sad,0,1,27,morning,479
+Latin America,181,happy,0,0,N/A,night,642
+Europe,178,happy,1,1,88,night,3795
+Latin America,87,sad,0,1,34,morning,2758
+South America,192,neutral,1,0,N/A,night,2873
+South America,32,neutral,1,1,115,afternoon,672
+South America,153,neutral,1,1,84,afternoon,442
+South America,91,sad,0,0,N/A,afternoon,635
+South America,48,neutral,0,0,N/A,afternoon,2910
+US,90,neutral,1,1,57,night,621
+US,115,happy,1,0,N/A,afternoon,3299
+Latin America,94,neutral,1,0,N/A,afternoon,620
+Asia,115,neutral,0,1,37,afternoon,1777
+Europe,126,neutral,0,0,N/A,afternoon,1113
+Asia,164,sad,0,0,N/A,morning,1185
+Asia,143,happy,1,1,26,night,868
+Latin America,34,sad,1,1,92,afternoon,3169
+South America,115,happy,1,1,89,morning,327
+Europe,97,happy,1,0,N/A,night,1954
+Asia,141,sad,0,1,78,night,1724
+Europe,101,neutral,1,0,N/A,morning,2922
+South America,78,sad,0,1,52,afternoon,950
+South America,71,happy,1,0,N/A,night,1660
+Asia,130,happy,1,1,55,night,3134
+Latin America,164,sad,1,0,N/A,morning,1838
+US,125,happy,1,1,17,afternoon,1823
+Latin America,72,neutral,1,1,18,morning,3933
+Latin America,99,neutral,0,0,N/A,night,3429
+US,58,happy,0,1,12,night,2416
+US,36,happy,1,0,N/A,morning,2575
+US,108,neutral,1,1,101,night,1673
+Asia,184,neutral,1,0,N/A,morning,3045
+Asia,179,happy,1,0,N/A,night,3892
+Europe,99,happy,0,1,40,night,3440
+Europe,156,sad,1,1,113,afternoon,2810
+Asia,114,happy,0,0,N/A,night,434
+Asia,187,sad,1,0,N/A,morning,1511
+US,119,neutral,1,1,27,night,3517
+US,151,sad,1,0,N/A,afternoon,3777
+Asia,86,neutral,1,0,N/A,afternoon,3588
+Asia,133,neutral,1,0,N/A,afternoon,707
+Asia,155,happy,0,0,N/A,morning,2999
+Europe,173,happy,0,1,110,afternoon,2732
+Asia,128,neutral,0,1,99,morning,3926
+Asia,140,neutral,0,1,37,morning,2025
+US,54,happy,1,0,N/A,afternoon,2745
+Asia,193,neutral,1,1,105,morning,3212
+Europe,135,sad,0,1,29,morning,3683
+Latin America,151,sad,0,0,N/A,morning,503
+Asia,132,happy,0,1,72,night,1564
+Europe,174,neutral,1,0,N/A,night,1550
+South America,75,sad,1,1,76,afternoon,3001
+South America,78,neutral,0,1,69,morning,2613
+US,175,happy,1,0,N/A,afternoon,3689
+South America,166,happy,1,1,116,afternoon,1751
+South America,133,happy,0,0,N/A,night,3259
+Asia,115,happy,1,0,N/A,night,2840
+Asia,38,neutral,0,0,N/A,night,3735
+US,169,sad,0,0,N/A,night,2474
+US,84,happy,1,1,41,morning,3289
+South America,66,sad,0,1,77,night,1143
+South America,116,sad,0,1,41,morning,2053
+Latin America,131,neutral,1,0,N/A,night,1556
+Europe,194,sad,1,0,N/A,morning,2644
+South America,135,happy,0,1,103,morning,3712
+US,149,sad,1,0,N/A,night,2347
+Asia,166,neutral,0,1,81,afternoon,3632
+Europe,191,happy,0,1,50,afternoon,1993
+Latin America,135,happy,1,0,N/A,night,3533
+South America,184,neutral,0,1,64,morning,3011
+US,113,neutral,0,0,N/A,afternoon,3836
+Latin America,146,neutral,1,1,39,afternoon,457
+Latin America,197,happy,1,1,97,afternoon,2592
+Latin America,33,neutral,0,0,N/A,afternoon,1826
+US,181,neutral,0,1,24,morning,964
+Asia,176,happy,0,0,N/A,afternoon,2410
+South America,76,happy,0,1,41,night,3483
+Asia,112,happy,0,0,N/A,night,917
+Asia,26,neutral,1,0,N/A,afternoon,3332
+Asia,106,neutral,1,1,21,morning,3698
+US,186,happy,0,1,70,afternoon,3946
+Europe,81,neutral,0,0,N/A,morning,2687
+Asia,94,sad,0,0,N/A,morning,3542
+South America,174,neutral,1,0,N/A,morning,829
+Europe,200,happy,1,0,N/A,morning,2389
+Europe,88,happy,0,1,82,morning,1937
+US,141,happy,1,1,36,night,334
+Asia,57,happy,0,1,82,night,2472
+South America,59,sad,0,0,N/A,afternoon,1953
+Asia,156,sad,1,0,N/A,afternoon,3164
+Asia,137,happy,1,0,N/A,night,800
+Europe,192,sad,1,1,52,night,1761
+Latin America,171,neutral,0,0,N/A,afternoon,2090
+Europe,40,happy,1,0,N/A,night,1296
+South America,173,happy,0,1,54,morning,1574
+Latin America,96,sad,1,0,N/A,morning,2335
+South America,60,sad,0,1,14,night,3429
+Asia,59,happy,1,0,N/A,morning,2117
+South America,179,happy,0,1,30,night,738
+Asia,72,neutral,0,1,60,afternoon,1373
+Asia,35,happy,1,1,57,night,2012
+Latin America,184,sad,0,0,N/A,night,2504
+Europe,52,neutral,0,0,N/A,morning,3694
+Europe,170,happy,1,0,N/A,night,3816
+South America,90,happy,0,1,98,morning,484
+South America,168,neutral,1,0,N/A,afternoon,1588
+Europe,151,happy,0,0,N/A,afternoon,1983
+South America,107,neutral,0,1,108,afternoon,2742
+Asia,121,sad,0,0,N/A,morning,1548
+Asia,54,neutral,0,0,N/A,afternoon,3219
+US,144,neutral,1,1,33,morning,3562
+Europe,183,neutral,1,0,N/A,morning,3190
+Europe,29,sad,1,1,81,afternoon,586
+Europe,115,neutral,1,1,16,afternoon,2579
+South America,95,happy,0,1,92,afternoon,1882
+Latin America,147,neutral,1,1,97,afternoon,509
+Europe,120,neutral,0,1,19,night,1214
+Latin America,149,neutral,0,1,86,morning,572
+South America,71,neutral,0,0,N/A,morning,693
+Latin America,129,happy,1,0,N/A,morning,1077
+Europe,106,sad,1,0,N/A,night,3438
+Asia,129,neutral,1,1,39,afternoon,1823
+Europe,187,sad,0,0,N/A,morning,1640
+Asia,49,happy,0,0,N/A,night,3565
+Europe,147,sad,0,1,57,morning,2138
+US,29,happy,0,1,96,night,3469
+Europe,181,sad,0,1,100,afternoon,3294
+Asia,171,sad,1,1,40,afternoon,1617
+South America,142,happy,0,0,N/A,afternoon,3758
+Asia,93,neutral,0,1,79,afternoon,2506
+Europe,129,happy,1,1,45,night,2143
+US,41,neutral,0,1,102,night,3174
+Europe,153,neutral,1,0,N/A,afternoon,2652
+Europe,31,neutral,1,1,88,afternoon,2295
+US,197,sad,0,0,N/A,afternoon,1147
+Latin America,191,happy,1,1,35,night,2625
+US,80,neutral,0,1,59,morning,3540
+South America,153,sad,1,0,N/A,morning,2025
+South America,89,sad,1,0,N/A,afternoon,1799
+South America,116,sad,0,0,N/A,night,854
+Europe,78,happy,1,0,N/A,afternoon,1049
+Europe,149,happy,0,1,78,afternoon,3885
+South America,118,sad,0,0,N/A,morning,1976
+Europe,32,happy,1,0,N/A,night,2356
+Asia,134,sad,0,0,N/A,morning,2036
+Asia,112,happy,1,1,85,night,2552
+South America,190,happy,0,0,N/A,night,1698
+South America,126,neutral,1,1,31,afternoon,2890
+Europe,72,happy,1,0,N/A,afternoon,346
+South America,27,sad,1,0,N/A,night,489
+South America,91,sad,1,0,N/A,night,1367
+Latin America,188,neutral,1,1,110,morning,1851
+Asia,199,neutral,1,0,N/A,night,682
+South America,49,sad,1,1,22,night,993
+Asia,71,sad,1,0,N/A,afternoon,747
+Asia,122,neutral,0,1,108,morning,505
+Europe,101,happy,1,1,66,afternoon,985
+Asia,76,neutral,0,1,26,morning,3333
+South America,171,happy,1,0,N/A,morning,993
+South America,141,sad,0,0,N/A,night,1114
+Latin America,171,happy,1,1,87,morning,3231
+US,79,happy,0,1,64,afternoon,1367
+US,175,neutral,1,0,N/A,afternoon,2683
+Latin America,147,happy,1,0,N/A,morning,1314
+Latin America,45,happy,0,0,N/A,afternoon,2610
+Asia,65,sad,1,1,114,night,3807
+South America,166,happy,1,1,41,morning,3119
+US,155,happy,1,0,N/A,morning,2572
+Latin America,85,neutral,1,0,N/A,morning,1617
+US,60,sad,0,1,71,afternoon,3033
+Latin America,62,sad,1,1,117,night,3410
+Latin America,78,sad,0,0,N/A,afternoon,1461
+Latin America,47,happy,1,0,N/A,morning,886
+Europe,44,happy,0,1,96,morning,1364
+Asia,178,sad,1,0,N/A,night,476
+Latin America,59,neutral,0,0,N/A,morning,632
+South America,160,sad,1,1,46,morning,2740
+South America,164,neutral,1,1,40,morning,1051
+US,101,sad,1,0,N/A,night,1000
+South America,199,happy,1,1,15,night,2652
+Europe,159,neutral,1,0,N/A,afternoon,3064
+South America,51,happy,1,0,N/A,night,3042
+South America,171,happy,1,1,10,morning,638
+US,126,happy,1,0,N/A,morning,3056
+US,127,happy,1,0,N/A,night,673
+US,191,neutral,1,1,112,afternoon,616
+Europe,26,happy,1,1,39,afternoon,2015
+US,79,sad,0,0,N/A,night,1235
+Latin America,131,neutral,0,0,N/A,morning,911
+Latin America,39,happy,0,1,45,night,386
+Asia,53,happy,0,0,N/A,morning,2709
+South America,58,sad,0,0,N/A,night,1459
+Asia,77,sad,0,0,N/A,night,2724
+US,109,neutral,0,1,101,night,1798
+Asia,125,neutral,0,0,N/A,morning,957
+Europe,94,happy,0,1,39,night,3295
+South America,57,neutral,1,0,N/A,morning,1548
+South America,96,sad,1,1,103,night,3589
+Asia,144,sad,0,0,N/A,afternoon,3463
+Asia,147,sad,1,1,37,afternoon,1354
+US,57,happy,1,1,106,night,714
+Latin America,139,sad,1,0,N/A,morning,1716
+Europe,172,happy,0,1,67,night,3604
+South America,119,happy,1,1,21,night,3418
+South America,156,neutral,1,0,N/A,afternoon,1230
+Latin America,40,neutral,1,1,96,night,3685
+Europe,189,sad,1,1,43,morning,3971
+Asia,192,happy,0,1,103,night,519
+US,50,sad,1,1,114,morning,548
+Asia,59,sad,0,1,96,morning,3060
+South America,33,happy,0,1,84,morning,3907
+Latin America,100,neutral,1,1,28,morning,3084
+Europe,122,neutral,1,0,N/A,morning,2604
+Latin America,181,happy,1,0,N/A,morning,1874
+Latin America,51,sad,1,1,50,night,501
+South America,138,happy,1,0,N/A,night,2681
+Asia,76,happy,0,0,N/A,morning,1039
+Asia,93,neutral,1,1,91,afternoon,1342
+South America,113,sad,1,0,N/A,night,1178
+Asia,119,sad,0,0,N/A,morning,1463
+Europe,31,happy,0,1,36,afternoon,623
+Latin America,196,happy,0,1,92,night,1320
+US,154,sad,1,1,72,morning,938
+Asia,190,happy,1,1,83,afternoon,3927
+Latin America,145,happy,0,0,N/A,night,3947
+Latin America,162,neutral,1,0,N/A,afternoon,3755
+Asia,163,happy,1,1,28,night,1366
+Latin America,165,happy,0,0,N/A,night,3141
+Europe,79,neutral,1,1,81,morning,883
+US,180,sad,0,1,83,night,3445
+Europe,144,neutral,0,0,N/A,afternoon,3401
+Europe,143,happy,1,1,118,night,2565
+Asia,173,happy,0,0,N/A,afternoon,3592
+US,101,happy,1,0,N/A,night,1942
+Latin America,170,sad,0,0,N/A,night,2348
+US,78,happy,0,0,N/A,night,3247
+Europe,83,happy,0,0,N/A,night,1802
+Latin America,37,neutral,0,0,N/A,night,1231
+Europe,194,neutral,0,1,29,afternoon,672
+Asia,164,sad,0,0,N/A,night,3814
+Latin America,151,happy,0,0,N/A,afternoon,618
+US,161,sad,0,0,N/A,morning,2325
+South America,125,sad,0,1,34,morning,1284
+Latin America,39,neutral,1,0,N/A,morning,523
+Europe,50,sad,0,0,N/A,night,1490
+Asia,56,neutral,0,0,N/A,night,3697
+South America,160,happy,1,0,N/A,afternoon,1160
+Asia,135,happy,0,1,24,morning,1179
+Europe,151,happy,1,0,N/A,morning,970
+South America,39,happy,0,1,120,afternoon,3068
+Europe,126,sad,0,0,N/A,afternoon,2832
+US,82,sad,1,1,51,night,2936
+Asia,192,sad,0,0,N/A,afternoon,2895
+Latin America,165,happy,1,1,49,afternoon,905
+Latin America,29,neutral,0,1,14,night,1621
+Europe,186,sad,0,0,N/A,night,1860
+South America,138,neutral,1,1,61,night,3061
+Europe,102,neutral,1,1,102,night,1330
+Latin America,159,sad,1,1,63,afternoon,1608
+Latin America,28,sad,1,0,N/A,afternoon,3386
+Asia,49,happy,1,0,N/A,afternoon,1156
+Asia,32,neutral,0,0,N/A,night,2854
+US,140,neutral,1,1,42,morning,1237
+Latin America,70,sad,0,1,90,night,2961
+Asia,189,happy,1,1,70,night,1134
+Europe,28,happy,1,1,107,night,1016
+South America,62,happy,0,0,N/A,morning,3375
+US,76,neutral,1,0,N/A,morning,1144
+Latin America,188,sad,0,1,45,night,937
+Latin America,187,happy,0,0,N/A,afternoon,584
+Europe,174,neutral,0,0,N/A,night,1009
+South America,110,sad,1,0,N/A,morning,1212
+Asia,59,happy,0,1,49,night,1153
+Asia,143,sad,0,1,91,morning,3455
+Europe,58,sad,1,0,N/A,night,3988
+US,180,neutral,1,0,N/A,night,1727
+Asia,153,happy,0,1,10,afternoon,2088
+Europe,132,sad,0,1,19,morning,1723
+Latin America,126,happy,1,1,17,afternoon,722
+Latin America,52,happy,1,1,33,afternoon,3323
+Latin America,189,happy,0,0,N/A,morning,2801
+US,161,sad,0,0,N/A,night,1247
+South America,189,neutral,1,0,N/A,morning,848
+South America,57,sad,1,0,N/A,morning,1742
+US,69,neutral,1,1,119,night,2516
+US,111,neutral,0,1,110,morning,1929
+US,38,sad,1,1,70,morning,1675
+South America,100,neutral,1,0,N/A,morning,1448
+Asia,172,sad,0,0,N/A,night,692
+Latin America,92,happy,0,0,N/A,night,2022
+Latin America,67,neutral,0,1,29,afternoon,554
+US,118,sad,1,0,N/A,morning,3898
+Asia,33,neutral,1,1,48,morning,2591
+US,67,happy,0,0,N/A,night,2837
+South America,157,sad,0,0,N/A,night,1281
+Asia,106,neutral,0,0,N/A,afternoon,1074
+Asia,124,sad,1,0,N/A,afternoon,830
+Europe,131,sad,1,1,31,morning,1253
+South America,180,neutral,0,0,N/A,morning,3776
+Asia,112,happy,1,1,21,morning,1671
+Asia,129,sad,1,0,N/A,night,2875
+South America,60,happy,0,1,20,morning,972
+Europe,58,neutral,0,1,34,afternoon,1080
+Europe,31,neutral,1,1,79,morning,2795
+Europe,144,neutral,0,1,84,afternoon,3912
+Europe,40,sad,1,1,46,morning,340
+Latin America,27,happy,0,1,39,afternoon,1468
+Asia,174,neutral,1,1,103,night,560
+Europe,116,neutral,1,0,N/A,afternoon,2967
+Europe,191,sad,1,1,32,morning,1504
+Europe,33,neutral,1,0,N/A,morning,2242
+US,79,sad,0,1,120,night,3185
+US,37,happy,1,1,117,morning,3354
+US,118,neutral,0,1,60,afternoon,1786
+Europe,126,happy,0,1,76,night,1867
+US,172,neutral,1,0,N/A,morning,3724
+South America,112,happy,0,1,51,morning,638
+Asia,132,neutral,1,0,N/A,morning,2189
+Europe,143,sad,1,1,81,afternoon,989
+Asia,194,neutral,1,1,95,afternoon,1608
+Latin America,46,happy,0,1,120,afternoon,888
+Europe,184,sad,0,0,N/A,night,317
+Asia,47,sad,1,1,13,afternoon,3595
+Latin America,96,neutral,1,1,25,morning,531
+Latin America,121,neutral,1,0,N/A,morning,3285
+South America,141,happy,0,1,76,night,2213
+South America,78,sad,1,0,N/A,afternoon,3903
+Europe,194,sad,0,1,69,morning,3112
+South America,200,sad,1,0,N/A,morning,2474
+Europe,123,happy,0,1,10,morning,332
+South America,50,sad,1,1,20,afternoon,1288
+South America,95,happy,1,1,66,morning,2497
+US,64,sad,0,0,N/A,night,2402
+Europe,168,sad,0,1,30,afternoon,2581
+Europe,178,happy,1,1,56,night,3314
+US,195,sad,1,0,N/A,night,323
+Europe,179,happy,1,0,N/A,afternoon,3228
+Asia,190,happy,0,1,120,night,2744
+South America,101,sad,1,0,N/A,afternoon,510
+Latin America,63,neutral,1,1,13,afternoon,424
+South America,65,neutral,0,0,N/A,afternoon,2266
+US,110,happy,1,0,N/A,night,3546
+Asia,39,sad,1,1,94,morning,739
+Latin America,96,neutral,0,0,N/A,morning,3785
+South America,113,sad,0,1,85,afternoon,3802
+Europe,37,neutral,1,0,N/A,morning,2789
+US,127,happy,1,1,51,afternoon,3924
+Asia,102,happy,1,1,116,afternoon,2011
+South America,187,happy,0,1,99,night,1762
+Asia,97,neutral,1,1,112,night,2267
+Latin America,177,sad,0,1,55,afternoon,3167
+US,63,neutral,1,0,N/A,night,3548
+US,30,sad,0,1,55,night,349
+South America,53,neutral,1,1,10,morning,3300
+US,127,happy,1,0,N/A,morning,2115
+Latin America,85,neutral,1,1,76,night,2836
+Europe,65,sad,1,1,81,morning,1974
+South America,150,neutral,0,1,78,afternoon,3199
+US,135,sad,1,1,12,night,3480
+Latin America,80,neutral,1,0,N/A,morning,1770
+South America,133,happy,1,0,N/A,night,1559
+Asia,38,neutral,0,1,21,afternoon,832
+Asia,30,neutral,0,0,N/A,afternoon,3692
+US,124,neutral,1,0,N/A,afternoon,2118
+Latin America,150,sad,1,1,51,night,3279
+Asia,75,sad,1,1,65,night,1872
+Asia,28,neutral,0,0,N/A,afternoon,3460
+US,157,sad,0,1,96,afternoon,3970
+Latin America,85,happy,0,0,N/A,night,2018
+Europe,52,sad,1,1,109,morning,3353
+South America,58,sad,1,1,95,afternoon,2399
+South America,152,neutral,0,1,113,morning,2667
+Asia,175,happy,1,1,20,afternoon,2963
+Latin America,106,sad,0,1,85,afternoon,2904
+Latin America,90,sad,0,0,N/A,night,1224
+US,55,neutral,0,1,76,morning,2879
+US,180,happy,1,0,N/A,afternoon,1981
+US,37,neutral,1,1,97,afternoon,1274
+Asia,195,sad,1,1,86,morning,754
+Asia,88,sad,0,1,55,night,723
+US,26,neutral,0,1,27,afternoon,785
+South America,115,sad,0,0,N/A,morning,1239
+US,126,neutral,0,1,103,morning,3019
+US,112,neutral,0,1,31,night,583
+Latin America,80,happy,0,1,60,afternoon,2593
+South America,173,happy,0,0,N/A,afternoon,1253
+Asia,64,sad,0,1,95,morning,1077
+Europe,84,sad,1,0,N/A,morning,3882
+South America,196,neutral,0,0,N/A,morning,2512
+US,48,sad,0,1,102,night,1571
+South America,181,neutral,1,0,N/A,morning,2349
+South America,144,neutral,1,1,37,morning,1035
+South America,115,sad,1,0,N/A,morning,2560
+South America,150,sad,0,0,N/A,morning,2511
+US,42,neutral,1,0,N/A,night,3281
+US,199,happy,0,0,N/A,morning,1818
+US,67,neutral,0,0,N/A,afternoon,3883
+South America,179,happy,1,1,13,night,3660
+Europe,111,happy,0,1,44,morning,3570
+South America,147,happy,1,0,N/A,night,3181
+US,60,neutral,0,0,N/A,morning,1388
+Latin America,154,happy,1,0,N/A,morning,2841
+US,137,neutral,0,1,41,night,1300
+Asia,142,happy,1,0,N/A,night,969
+US,73,neutral,0,1,40,night,2849
+Europe,187,sad,1,1,12,afternoon,3873
+Asia,83,sad,1,1,56,morning,1916
+Latin America,85,happy,0,1,61,morning,2510
+Europe,162,happy,0,1,79,morning,3309
+US,87,happy,1,0,N/A,morning,1180
+Asia,194,happy,0,1,15,night,2474
+Europe,105,happy,0,0,N/A,morning,928
+Asia,41,sad,0,1,97,afternoon,423
+Latin America,152,neutral,1,0,N/A,night,513
+Asia,133,neutral,0,1,67,morning,3017
+Asia,191,neutral,0,0,N/A,morning,2073
+Europe,172,neutral,0,0,N/A,afternoon,3891
+US,148,neutral,1,0,N/A,morning,2540
+South America,83,happy,1,0,N/A,morning,651
+Europe,28,sad,1,0,N/A,night,2423
+Latin America,63,happy,1,0,N/A,afternoon,555
+Europe,133,neutral,0,0,N/A,morning,928
+Europe,118,sad,1,1,62,morning,1290
+US,39,happy,0,1,63,afternoon,3796
+South America,174,happy,0,0,N/A,morning,1234
+US,130,happy,0,0,N/A,afternoon,3560
+Asia,118,neutral,1,1,92,night,3237
+South America,141,happy,1,0,N/A,afternoon,3203
+US,146,happy,0,0,N/A,morning,1373
+Asia,156,happy,1,0,N/A,night,695
+Latin America,189,happy,0,1,80,morning,3416
+South America,90,happy,0,1,102,afternoon,1776
+US,73,neutral,1,0,N/A,afternoon,3048
+Asia,108,sad,0,1,31,night,2749
+Latin America,58,happy,1,1,115,night,3899
+Asia,93,sad,0,0,N/A,afternoon,798
+US,79,neutral,0,0,N/A,afternoon,1242
+Europe,27,sad,0,1,89,night,2741
+Europe,159,neutral,0,0,N/A,night,1080
+Europe,194,happy,0,1,14,night,1290
+South America,30,happy,0,0,N/A,morning,3873
+Asia,177,happy,1,1,120,morning,3024
+South America,131,sad,1,1,84,morning,1979
+US,76,sad,0,0,N/A,night,1524
+US,79,sad,1,0,N/A,night,3821
+Latin America,68,neutral,1,1,100,afternoon,3458
+Asia,119,neutral,0,0,N/A,morning,817
+Europe,170,neutral,1,1,11,afternoon,3821
+Europe,126,happy,1,0,N/A,afternoon,549
+US,133,neutral,1,0,N/A,afternoon,1485
+South America,141,sad,0,1,19,morning,2357
+US,70,neutral,1,0,N/A,night,942
+South America,93,neutral,1,0,N/A,morning,726
+US,43,sad,0,0,N/A,afternoon,484
+Asia,168,happy,0,0,N/A,afternoon,2922
+Europe,101,neutral,0,1,96,night,3400
+Europe,97,sad,1,0,N/A,afternoon,1805
+South America,159,neutral,0,0,N/A,morning,591
+South America,153,neutral,0,1,95,night,3691
+Europe,173,sad,1,0,N/A,morning,3755
+Europe,71,neutral,1,0,N/A,afternoon,479
+Europe,123,happy,1,1,39,afternoon,2703
+US,141,sad,1,0,N/A,afternoon,1038
+Europe,66,happy,0,0,N/A,night,2913
+Asia,169,sad,0,0,N/A,afternoon,3969
+Asia,123,happy,0,0,N/A,afternoon,1465
+Asia,153,happy,1,1,103,night,2441
+South America,94,happy,0,1,18,morning,2385
+Europe,133,neutral,1,0,N/A,afternoon,1356
+US,38,sad,0,0,N/A,night,2515
+Asia,47,neutral,0,0,N/A,night,680
+Asia,60,sad,1,0,N/A,afternoon,762
+Latin America,146,happy,0,1,18,afternoon,3932
+South America,76,sad,0,0,N/A,afternoon,3736
+US,53,neutral,1,0,N/A,morning,1872
+Europe,41,sad,1,1,41,morning,3898
+US,192,happy,1,0,N/A,night,2070
+Europe,116,sad,1,1,96,morning,613
+South America,142,happy,1,0,N/A,night,2882
+Asia,159,neutral,1,0,N/A,night,2412
+South America,163,sad,0,0,N/A,afternoon,1764
+Latin America,199,happy,1,1,86,night,2249
+Europe,62,neutral,1,0,N/A,afternoon,2192
+Latin America,45,happy,1,1,31,morning,3405
+Latin America,30,happy,0,1,60,night,1969
+US,140,neutral,0,0,N/A,night,2354
+South America,179,neutral,1,1,66,night,1503
+Asia,56,sad,0,1,12,morning,407
+Latin America,71,neutral,1,0,N/A,afternoon,2604
+South America,34,happy,0,1,94,night,1583
+South America,96,neutral,0,0,N/A,afternoon,2012
+South America,73,happy,1,1,50,afternoon,2365
+Europe,86,neutral,1,0,N/A,night,1880
+Asia,193,happy,1,0,N/A,night,2334
+Asia,25,happy,0,1,97,afternoon,3165
+US,88,neutral,0,1,22,morning,650
+South America,46,neutral,0,0,N/A,afternoon,3605
+Latin America,62,neutral,1,1,25,afternoon,330
+Europe,170,happy,1,1,115,afternoon,909
+Latin America,104,sad,0,1,84,morning,3801
+US,29,happy,0,0,N/A,afternoon,1214
+Latin America,188,happy,0,0,N/A,afternoon,639
+Asia,162,happy,0,1,73,morning,2963
+Latin America,196,happy,0,1,116,morning,1299
+Europe,150,neutral,1,1,45,afternoon,2239
+Latin America,25,happy,1,0,N/A,afternoon,3770
+Europe,196,sad,0,0,N/A,afternoon,1453
+Latin America,113,happy,0,1,47,morning,972
+South America,36,neutral,1,0,N/A,night,3208
+Europe,186,neutral,1,0,N/A,morning,2554
+US,189,sad,0,0,N/A,morning,841
+South America,125,sad,1,1,106,night,1019
+Europe,70,neutral,1,1,59,morning,984
+Latin America,96,happy,0,1,119,morning,1500
+Europe,89,sad,0,0,N/A,morning,1234
+Asia,109,sad,1,1,58,afternoon,1546
+Europe,99,happy,0,0,N/A,afternoon,403
+South America,156,neutral,0,0,N/A,afternoon,2767
+US,166,happy,1,0,N/A,afternoon,510
+US,198,neutral,1,1,11,afternoon,2858
+US,119,happy,1,1,56,night,3672
+Asia,170,happy,1,0,N/A,morning,1461
+South America,26,happy,1,1,102,night,1337
+Europe,111,happy,0,0,N/A,morning,3273
+South America,37,sad,0,1,27,morning,2948
+Latin America,103,happy,0,1,67,morning,1655
+US,69,happy,0,0,N/A,night,2893
+US,162,sad,0,1,88,night,2056
+Europe,175,neutral,0,0,N/A,night,1930
+Latin America,171,sad,1,1,102,afternoon,959
+Latin America,154,neutral,1,1,74,night,3131
+Asia,73,happy,0,1,92,morning,478
+Asia,172,sad,1,0,N/A,afternoon,2898
+South America,194,neutral,1,1,12,night,3591
+Asia,194,happy,1,1,79,night,1488
+Latin America,73,neutral,1,1,118,morning,941
+Europe,131,happy,1,0,N/A,afternoon,2435
+US,83,neutral,0,0,N/A,morning,639
+South America,185,happy,1,0,N/A,morning,3495
+South America,101,sad,1,1,27,morning,661
+Latin America,172,happy,0,0,N/A,afternoon,3971
+South America,184,neutral,0,0,N/A,night,966
+Europe,58,happy,0,1,30,night,1063
+Latin America,133,sad,1,1,96,afternoon,1413
+South America,106,neutral,0,1,24,afternoon,2524
+Europe,181,neutral,1,1,29,morning,1568
+South America,173,sad,0,1,42,morning,1086
+Asia,26,sad,0,0,N/A,afternoon,2219
+Latin America,68,sad,0,1,45,morning,2934
+South America,197,happy,0,1,28,morning,1644
+Latin America,89,happy,0,0,N/A,night,1837
+South America,86,sad,1,1,44,afternoon,3078
+Latin America,83,sad,0,1,22,afternoon,818
+Asia,93,sad,1,1,28,morning,3276
+South America,106,sad,0,0,N/A,morning,2797
+Europe,185,happy,0,0,N/A,morning,1787
+South America,126,neutral,0,1,23,night,3605
+Asia,59,neutral,0,1,17,night,330
+Asia,161,sad,1,0,N/A,morning,1771
+Europe,50,sad,1,1,24,morning,1929
+US,66,neutral,1,0,N/A,morning,1067
+Latin America,96,neutral,0,1,49,afternoon,893
+Latin America,49,sad,0,1,13,morning,2873
+Asia,99,neutral,0,1,79,night,3097
+US,94,sad,0,1,59,night,2598
+South America,131,neutral,1,0,N/A,afternoon,1759
+South America,45,sad,0,0,N/A,night,3928
+US,83,happy,0,0,N/A,morning,2859
+Latin America,123,sad,1,1,21,afternoon,469
+Europe,130,neutral,1,1,115,afternoon,3722
+Asia,87,neutral,1,0,N/A,afternoon,3138
+Europe,192,happy,0,0,N/A,afternoon,3517
+South America,169,happy,0,0,N/A,morning,1406
+Latin America,67,happy,0,0,N/A,night,3810
+South America,72,happy,1,1,92,morning,3867
+US,169,sad,1,0,N/A,afternoon,3105
+Asia,171,happy,0,0,N/A,morning,3839
+US,48,happy,0,1,89,morning,1956
+Latin America,89,happy,0,0,N/A,night,1116
+Europe,49,sad,0,0,N/A,afternoon,764
+Latin America,190,happy,1,0,N/A,night,527
+South America,25,neutral,0,0,N/A,afternoon,1847
+Latin America,176,sad,0,1,120,afternoon,2918
+Europe,193,neutral,1,1,48,afternoon,1265
+Asia,74,happy,0,0,N/A,afternoon,1885
+South America,106,sad,0,0,N/A,night,3584
+Latin America,54,sad,1,0,N/A,night,1847
+Europe,115,happy,1,0,N/A,night,3585
+Latin America,91,happy,1,0,N/A,morning,2818
+South America,186,sad,1,0,N/A,afternoon,862
+US,180,sad,0,0,N/A,night,3903
+South America,153,happy,1,0,N/A,morning,1696
+Europe,89,happy,1,1,61,morning,1888
+Latin America,120,happy,0,1,73,night,3711
+Asia,137,neutral,1,1,50,night,1814
+Europe,102,happy,0,1,49,afternoon,612
+Europe,153,happy,0,0,N/A,afternoon,3551
+Asia,51,neutral,1,0,N/A,morning,970
+US,39,neutral,0,1,47,night,2945
+US,142,sad,0,0,N/A,night,3608
+Latin America,65,happy,0,0,N/A,morning,429
+South America,125,neutral,1,0,N/A,night,2649
+Asia,159,sad,1,1,71,morning,3673
+Latin America,127,sad,0,1,67,morning,493
+Europe,33,sad,1,1,47,night,3807
+Latin America,42,sad,1,0,N/A,night,2319
+Latin America,116,neutral,0,0,N/A,morning,694
+Latin America,40,sad,0,0,N/A,afternoon,344
+US,166,neutral,0,0,N/A,morning,2056
+US,129,sad,0,0,N/A,night,3389
+Europe,147,neutral,0,0,N/A,night,511
+South America,79,neutral,0,1,26,night,1111
+US,88,neutral,1,1,95,night,3604
+Europe,73,neutral,0,1,94,afternoon,753
+Europe,168,neutral,1,0,N/A,morning,1594
+US,45,neutral,0,0,N/A,afternoon,742
+Europe,105,neutral,0,0,N/A,morning,1686
+US,103,happy,1,0,N/A,morning,781
+Europe,137,sad,0,1,81,night,1998
+US,114,happy,1,0,N/A,night,3836
+Asia,45,neutral,1,0,N/A,afternoon,1888
+Asia,177,happy,1,0,N/A,morning,1803
+South America,32,neutral,1,0,N/A,night,1079
+Latin America,143,sad,0,0,N/A,night,3855
+Asia,84,neutral,0,0,N/A,night,3034
+US,56,neutral,0,0,N/A,afternoon,2115
+Asia,190,happy,1,0,N/A,afternoon,1196
+US,46,neutral,0,0,N/A,morning,3629
+Latin America,109,sad,0,1,46,afternoon,1759
+Europe,43,neutral,1,1,28,afternoon,1840
+Asia,109,sad,0,0,N/A,night,2264
+Latin America,96,sad,0,0,N/A,afternoon,3968
+US,77,sad,0,0,N/A,afternoon,2843
+Asia,125,neutral,1,0,N/A,morning,1651
+Europe,141,happy,1,1,72,night,560
+Latin America,75,sad,0,0,N/A,afternoon,2356
+Europe,74,sad,0,1,75,night,3181
+US,131,sad,1,1,38,afternoon,2804
+US,90,sad,0,1,11,night,1433
+Latin America,156,happy,0,1,116,afternoon,3503
+South America,73,neutral,1,0,N/A,night,1704
+Europe,51,sad,1,0,N/A,night,3258
+Asia,33,neutral,1,1,33,morning,3382
+Asia,39,happy,0,0,N/A,afternoon,3570
+Asia,53,happy,1,0,N/A,afternoon,3976
+Europe,69,sad,1,1,94,night,1559
+Europe,163,neutral,0,0,N/A,night,3278
+Asia,152,neutral,1,0,N/A,night,3370
+Europe,147,sad,1,0,N/A,afternoon,3158
+Latin America,175,sad,1,1,111,night,2651
+Asia,117,happy,0,1,43,morning,1600
+US,46,happy,1,0,N/A,night,3746
+South America,66,happy,1,1,60,afternoon,1973
+Europe,172,happy,0,0,N/A,night,1621
+Latin America,120,neutral,1,1,67,night,1324
+US,30,happy,1,0,N/A,morning,3983
+Asia,141,happy,0,1,96,afternoon,3191
+Asia,164,happy,0,1,10,morning,2026
+US,180,happy,1,1,86,morning,1356
+Asia,141,sad,1,1,54,night,314
+Europe,189,neutral,1,0,N/A,night,2380
+Europe,81,happy,0,1,19,afternoon,3492
+Latin America,167,happy,0,0,N/A,morning,3561
+South America,180,happy,1,0,N/A,afternoon,2270
+Asia,30,happy,1,0,N/A,night,326
+Asia,185,sad,0,1,30,night,1498
+South America,186,happy,0,1,113,night,3086
+Asia,139,happy,0,1,93,morning,1039
+Europe,111,neutral,1,1,114,night,728
+US,180,happy,0,1,74,afternoon,1818
+Latin America,106,sad,0,0,N/A,night,647
+Latin America,149,sad,0,0,N/A,morning,483
+South America,127,neutral,1,1,42,morning,2378
+Europe,105,neutral,0,1,62,night,2536
+Asia,86,sad,0,0,N/A,morning,1647
+Europe,156,happy,1,1,48,afternoon,2234
+US,189,sad,1,1,91,afternoon,1866
+US,189,happy,1,1,17,afternoon,3194
+US,164,neutral,0,0,N/A,afternoon,3029
+Asia,78,neutral,0,0,N/A,afternoon,344
+South America,83,sad,1,0,N/A,afternoon,1528
+Asia,165,happy,1,0,N/A,morning,738
+Europe,57,happy,0,1,112,night,2884
+US,134,neutral,0,1,52,morning,631
+Latin America,89,sad,1,0,N/A,morning,378
+Latin America,101,neutral,0,1,27,morning,1991
+US,94,happy,1,1,74,afternoon,322
+US,183,neutral,1,0,N/A,morning,1346
+South America,110,happy,0,0,N/A,morning,1336
+Europe,191,neutral,0,1,105,night,3171
+US,197,sad,1,1,34,afternoon,2693
+Asia,34,sad,1,1,90,afternoon,2073
+Europe,106,happy,1,0,N/A,night,3465
+South America,70,sad,1,0,N/A,night,1779
+Asia,118,happy,1,1,45,morning,3886
+Europe,195,happy,1,1,86,night,2752
+Europe,88,neutral,1,0,N/A,morning,554
+Europe,46,happy,1,1,105,morning,809
+Europe,163,happy,0,1,118,afternoon,1870
+Latin America,64,neutral,0,1,89,afternoon,2615
+South America,147,happy,1,0,N/A,night,3833
+Asia,140,happy,0,1,90,morning,3275
+Europe,107,neutral,0,0,N/A,morning,2850
+South America,128,neutral,0,0,N/A,afternoon,921
+Europe,197,happy,1,0,N/A,afternoon,2782
+Latin America,58,happy,0,1,96,afternoon,1536
+South America,51,neutral,0,0,N/A,night,1017
+US,150,sad,1,1,68,afternoon,3873
+US,165,sad,1,0,N/A,night,2368
+South America,32,neutral,0,1,42,night,2778
+South America,131,happy,1,1,37,morning,3286
+Latin America,60,sad,1,1,113,afternoon,2691
+Latin America,93,sad,1,1,11,afternoon,1781
+Asia,35,sad,1,1,81,afternoon,1038
+US,98,happy,1,0,N/A,night,3855
+Latin America,76,neutral,0,1,30,night,2148
+Europe,86,neutral,1,1,71,night,1630
+Latin America,85,neutral,0,0,N/A,night,1817
+South America,173,sad,0,0,N/A,afternoon,516
+US,107,neutral,0,1,37,afternoon,2618
+Asia,117,sad,0,0,N/A,night,2500
+Europe,167,sad,1,1,73,morning,3595
+South America,163,sad,1,1,31,night,1790
+US,135,neutral,1,0,N/A,afternoon,3232
+US,41,happy,1,0,N/A,afternoon,1837
+Asia,86,neutral,0,0,N/A,night,1340
+Europe,51,sad,0,1,85,afternoon,2179
+US,50,sad,1,1,39,night,2722
+US,172,sad,0,1,36,afternoon,1471
+South America,34,neutral,0,0,N/A,afternoon,1182
+Europe,26,happy,0,0,N/A,morning,2508
+Asia,65,happy,1,0,N/A,afternoon,3871
+US,151,happy,1,1,118,morning,1483
+South America,173,happy,1,1,68,night,2610
+Europe,174,neutral,0,1,84,morning,1608
+US,84,sad,0,1,22,afternoon,3166
+Latin America,100,happy,0,1,115,morning,2305
+South America,115,sad,0,1,120,morning,722
+Latin America,138,neutral,0,0,N/A,night,3220
+US,40,neutral,0,1,49,afternoon,437
+Latin America,169,neutral,1,1,103,morning,1908
+US,102,happy,0,0,N/A,morning,3536
+US,72,neutral,1,1,118,afternoon,3480
+US,192,sad,0,1,20,afternoon,1497
+South America,33,neutral,0,0,N/A,afternoon,3337
+Asia,104,happy,1,1,119,night,1365
+South America,143,neutral,1,0,N/A,night,3783
+US,161,happy,0,1,58,night,1338
+Latin America,95,sad,0,0,N/A,morning,885
+Asia,140,sad,0,0,N/A,night,498
+Asia,69,sad,1,1,39,night,3722
+Europe,158,neutral,0,0,N/A,morning,2125
+US,96,sad,1,0,N/A,afternoon,3352
+Latin America,135,sad,1,0,N/A,night,2954
+South America,130,happy,0,0,N/A,night,1698
+Asia,50,happy,1,1,73,night,2890
+Latin America,77,sad,0,1,48,night,3688
+US,171,sad,0,1,73,afternoon,1568
+South America,147,sad,1,0,N/A,night,3592
+Asia,188,neutral,1,1,33,night,2663
+Latin America,89,happy,1,1,115,night,2942
+Latin America,108,neutral,1,0,N/A,night,1206
+US,47,neutral,0,1,80,night,2816
+Europe,116,neutral,1,0,N/A,morning,1471
+Asia,198,neutral,1,1,74,afternoon,2592
+US,177,sad,0,0,N/A,morning,2885
+US,177,sad,0,0,N/A,night,1210
+US,130,happy,0,0,N/A,morning,936
+South America,170,happy,1,1,11,afternoon,3070
+Asia,196,happy,1,1,25,night,3931
+Latin America,84,happy,1,0,N/A,night,1226
+South America,169,neutral,0,0,N/A,afternoon,2206
+Latin America,105,sad,1,0,N/A,afternoon,442
+US,35,happy,1,0,N/A,morning,1250
+South America,175,sad,1,0,N/A,afternoon,1809
+South America,105,sad,1,0,N/A,night,3342
+Latin America,137,sad,0,0,N/A,night,762
+US,187,neutral,0,1,103,morning,957
+Europe,110,happy,0,0,N/A,night,3767
+US,60,happy,1,1,55,morning,1293
+US,53,sad,0,0,N/A,night,530
+US,51,happy,0,1,63,night,1213
+US,117,sad,0,1,108,morning,2016
+Asia,29,neutral,0,0,N/A,night,3356
+South America,43,sad,1,0,N/A,morning,800
+Latin America,29,happy,0,1,19,night,2479
+South America,145,happy,0,1,73,morning,1666
+Europe,57,neutral,1,1,93,afternoon,765
+US,26,neutral,1,0,N/A,night,2681
+US,28,neutral,1,1,66,afternoon,2202
+Europe,156,happy,0,0,N/A,night,1759
+Latin America,100,sad,0,1,66,morning,1664
+Latin America,148,happy,1,1,52,night,3806
+Latin America,143,neutral,0,1,110,afternoon,1002
+South America,114,happy,0,0,N/A,afternoon,1548
+Latin America,139,sad,0,0,N/A,afternoon,2553
+South America,160,happy,0,1,106,night,3942
+Europe,126,neutral,0,0,N/A,morning,2858
+US,90,happy,1,1,57,morning,936
+Latin America,189,neutral,1,1,64,night,1539
+Latin America,68,happy,1,0,N/A,afternoon,891
+Latin America,161,happy,1,1,63,night,1141
+Latin America,118,sad,1,1,105,morning,3889
+South America,187,neutral,0,0,N/A,afternoon,1795
+Latin America,142,sad,1,1,107,afternoon,3537
+Europe,178,sad,0,0,N/A,night,3047
+South America,152,neutral,1,1,119,afternoon,1929
+Asia,181,happy,1,1,96,morning,3479
+Asia,127,sad,0,1,120,afternoon,3472
+South America,126,sad,0,0,N/A,morning,1299
+Europe,167,sad,0,1,76,morning,1842
+US,115,happy,1,1,47,afternoon,2611
+US,90,neutral,1,1,68,afternoon,3377
+US,176,sad,0,1,106,morning,3472
+South America,30,happy,0,0,N/A,morning,3270
+South America,83,neutral,0,1,81,afternoon,3487
+Latin America,45,happy,0,0,N/A,morning,365
+Latin America,72,happy,0,0,N/A,afternoon,1479
+Latin America,140,sad,1,0,N/A,afternoon,2512
+Latin America,28,sad,0,1,14,night,2078
+Europe,103,neutral,1,0,N/A,morning,1625
+US,32,happy,1,0,N/A,night,1776
+Europe,88,happy,0,1,34,afternoon,2231
+Latin America,179,neutral,1,1,32,afternoon,476
+Asia,69,neutral,1,1,90,afternoon,2496
+Europe,192,sad,0,1,34,afternoon,3442
+US,49,sad,0,0,N/A,morning,2056
+Europe,26,happy,0,1,114,morning,2266
+Latin America,151,happy,1,0,N/A,afternoon,3166
+South America,55,happy,1,1,16,afternoon,2712
+South America,137,sad,1,1,33,night,3069
+Latin America,178,neutral,0,1,18,night,1487
+Latin America,35,happy,0,0,N/A,night,1230
+US,150,neutral,1,1,65,morning,3648
+Latin America,164,sad,1,1,82,morning,644
+Asia,134,happy,0,1,64,afternoon,3414
+South America,51,happy,0,0,N/A,afternoon,3394
+US,177,happy,0,0,N/A,afternoon,725
+Asia,55,sad,0,0,N/A,morning,3625
+Latin America,113,happy,0,0,N/A,afternoon,3580
+Latin America,33,happy,1,1,37,morning,3485
+Latin America,104,happy,0,1,19,afternoon,2086
+South America,197,happy,0,0,N/A,night,3282
+Latin America,100,happy,0,0,N/A,afternoon,2542
+US,183,sad,1,1,100,morning,1064
+South America,113,happy,0,1,100,morning,3625
+Asia,130,sad,0,1,51,afternoon,3027
+Asia,181,sad,1,1,87,night,1436
+Asia,108,neutral,0,0,N/A,morning,1770
+South America,126,neutral,1,0,N/A,morning,3975
+Asia,78,happy,0,1,78,night,1985
